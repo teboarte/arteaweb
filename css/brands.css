@@ -99,10 +99,10 @@
 /* Kit */
 .button.button-kit {
   color: #FFFFFF;
-  background-color: #10c694 }
+  background-color: #10abc6 }
 .button.button-kit:hover,
 .button.button-kit:hover:before {
-    content: 'Aquí vas a encontrar la lista completa y actualizada de todo el hardware que uso para trabajar y hacer mis videos de YouTube.';
+    content: 'Aquí vas a encontrar mis experimentos relizados en mi hogar';
     white-space: initial; }
 
 /* YouTube */
